@@ -199,13 +199,6 @@
       <version>2.12.2</version>
       <scope>provided</scope>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/xml-apis/xml-apis -->
-    <dependency>
-      <groupId>xml-apis</groupId>
-      <artifactId>xml-apis</artifactId>
-      <version>1.4.01</version> <!-- We were actually using 1.4.02 in the Ant build? -->
-      <scope>provided</scope>
-    </dependency>
 
     <!-- https://github.com/vbmacher/cup-maven-plugin -->
     <dependency>
